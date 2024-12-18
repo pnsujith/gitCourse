@@ -1,0 +1,44 @@
+[33mcommit aa975e5106fe83b235d35589822b78be72a8f8cc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: b60038c b0cdb7d
+Author: pnsujith <sujithperur@outlook.com>
+Date:   Wed Dec 18 12:56:51 2024 +0530
+
+    Merge branch 'featureBranch'
+
+[33mcommit b60038cd11d17a97e8d195a3f94520b9e2ba0e75[m
+Author: pnsujith <sujithperur@outlook.com>
+Date:   Wed Dec 18 12:50:15 2024 +0530
+
+    Revert "test commit"
+    
+    This reverts commit 4d3aeca2180095000781bc4f378e9708eaeb6605.
+
+[33mcommit 4d3aeca2180095000781bc4f378e9708eaeb6605[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: pnsujith <sujithperur@outlook.com>
+Date:   Wed Dec 18 12:46:23 2024 +0530
+
+    test commit
+
+[33mcommit b0cdb7dee8b0abc9cf00411adb17512a371709e8[m[33m ([m[1;32mfeatureBranch[m[33m)[m
+Author: pnsujith <sujithperur@outlook.com>
+Date:   Wed Dec 18 11:40:11 2024 +0530
+
+    feature Branch commit
+
+[33mcommit 093eeea49c2cfaafe71045246aabb6b149a62720[m
+Author: pnsujith <sujithperur@outlook.com>
+Date:   Wed Dec 18 11:38:07 2024 +0530
+
+    Master Branch Commit
+
+[33mcommit 1a004658e61ed9ce35513e627c152c27fc3ec2ae[m
+Author: pnsujith <sujithperur@outlook.com>
+Date:   Wed Dec 18 10:54:13 2024 +0530
+
+    Initial Commit
+
+[33mcommit 9058a68d2a5948dbe1f09a6b1e5fdd775d8bd508[m
+Author: pnsujith <44168836+pnsujith@users.noreply.github.com>
+Date:   Wed Dec 18 10:18:50 2024 +0530
+
+    Initial commit
